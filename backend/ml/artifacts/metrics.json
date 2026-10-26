@@ -1,0 +1,18 @@
+{
+  "train_r2": 0.9871,
+  "test_r2": 0.9799,
+  "test_mae": 63920.47,
+  "test_rmse": 118475.98,
+  "test_mape": 14.29,
+  "train_samples": 6495,
+  "test_samples": 1624,
+  "total_samples": 8119,
+  "algorithm": "RandomForestRegressor (Log-Transformed Target)",
+  "hyperparameters": {
+    "n_estimators": 180,
+    "max_depth": 22,
+    "min_samples_split": 4,
+    "min_samples_leaf": 2,
+    "random_state": 42
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "dataset_size": 8119,
+  "brands": [
+    "Audi",
+    "BMW",
+    "Chevrolet",
+    "Datsun",
+    "Fiat",
+    "Force",
+    "Ford",
+    "Honda",
+    "Hyundai",
+    "Isuzu",
+    "Jaguar",
+    "Jeep",
+    "Land",
+    "Lexus",
+    "Mahindra",
+    "Maruti",
+    "Mercedes-Benz",
+    "Mitsubishi",
+    "Nissan",
+    "Other",
+    "Renault",
+    "Skoda",
+    "Tata",
+    "Toyota",
+    "Volkswagen",
+    "Volvo"
+  ],
+  "brand_models": {
+    "Audi": [
+      "Q5",
+      "A4",
+      "A6",
+      "Q7",
+      "Q3",
+      "Other"
+    ],
+    "BMW": [
+      "X4",
+      "3",
+      "5",
+      "X1",
+      "Other",
+      "6"
+    ],
+    "Chevrolet": [
+      "Beat",
+      "Spark",
+      "Sail",
+      "Tavera",
+      "Enjoy",
+      "Cruze",
+      "Optra",
+      "Aveo",
+      "Captiva",
+      "Other"
+    ],
+    "Datsun": [
+      "GO",
+      "RediGO"
+    ],
+    "Fiat": [
+      "Grande",
+      "Linea",
+      "Punto",
+      "Avventura",
+      "Other"
+    ],
+    "Force": [
+      "Other"
+    ],
+    "Ford": [
+      "Figo",
+      "EcoSport",
+      "Fiesta",
+      "Ecosport",
+      "Endeavour",
+      "Freestyle",
+      "Aspire",
+      "Ikon",
+      "Classic",
+      "Other"
+    ],
+    "Honda": [
+      "City",
+      "Amaze",
+      "Jazz",
+      "Brio",
+      "WR-V",
+      "Civic",
+      "Mobilio",
+      "CR-V",
+      "BRV",
+      "Accord",
+      "BR-V"
+    ],
+    "Hyundai": [
+      "i20",
+      "Verna",
+      "Grand",
+      "i10",
+      "Santro",
+      "EON",
+      "Creta",
+      "Xcent",
+      "Accent",
+      "Elite",
+      "Elantra",
+      "Getz",
+      "Sonata",
+      "Santa",
+      "Other"
+    ],
+    "Isuzu": [
+      "Other"
+    ],
+    "Jaguar": [
+      "XF",
+      "XE"
+    ],
+    "Jeep": [
+      "Compass",
+      "Wrangler"
+    ],
+    "Land": [
+      "Rover"
+    ],
+    "Lexus": [
+      "ES"
+    ],
+    "Mahindra": [
+      "Bolero",
+      "Scorpio",
+      "XUV500",
+      "TUV",
+      "Xylo",
+      "KUV",
+      "Thar",
+      "Verito",
+      "Marazzo",
+      "Other",
+      "XUV300",
+      "Quanto",
+      "Renault",
+      "Ssangyong",
+      "Jeep"
+    ],
+    "Maruti": [
+      "Swift",
+      "Alto",
+      "Wagon",
+      "Ertiga",
+      "Baleno",
+      "800",
+      "Vitara",
+      "Ritz",
+      "Ciaz",
+      "Zen",
+      "Celerio",
+      "Eeco",
+      "Omni",
+      "SX4",
+      "Ignis",
+      "S-Cross",
+      "A-Star",
+      "Esteem",
+      "Other",
+      "Gypsy",
+      "Estilo"
+    ],
+    "Mercedes-Benz": [
+      "Other",
+      "New",
+      "E-Class",
+      "GLA",
+      "M-Class"
+    ],
+    "Mitsubishi": [
+      "Pajero",
+      "Lancer"
+    ],
+    "Nissan": [
+      "Sunny",
+      "Terrano",
+      "Micra",
+      "Other"
+    ],
+    "Other": [
+      "Other",
+      "Grand"
+    ],
+    "Renault": [
+      "KWID",
+      "Duster",
+      "Lodgy",
+      "Triber",
+      "Other",
+      "Pulse",
+      "Fluence"
+    ],
+    "Skoda": [
+      "Rapid",
+      "Octavia",
+      "Fabia",
+      "Other",
+      "Superb"
+    ],
+    "Tata": [
+      "Indica",
+      "Indigo",
+      "Tiago",
+      "Safari",
+      "Manza",
+      "Zest",
+      "New",
+      "Nexon",
+      "Sumo",
+      "Tigor",
+      "Nano",
+      "Hexa",
+      "Other",
+      "Bolt",
+      "Aria"
+    ],
+    "Toyota": [
+      "Innova",
+      "Etios",
+      "Fortuner",
+      "Corolla",
+      "Camry",
+      "Yaris",
+      "Qualis",
+      "Other",
+      "Platinum"
+    ],
+    "Volkswagen": [
+      "Polo",
+      "Vento",
+      "Ameo",
+      "Jetta",
+      "Passat",
+      "Other"
+    ],
+    "Volvo": [
+      "XC40",
+      "V40",
+      "Other"
+    ]
+  },
+  "fuel_types": [
+    "Cng",
+    "Diesel",
+    "Lpg",
+    "Petrol"
+  ],
+  "seller_types": [
+    "Dealer",
+    "Individual",
+    "Trustmark Dealer"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "owners": [
+    "First Owner",
+    "Second Owner",
+    "Third Owner",
+    "Fourth & Above Owner",
+    "Test Drive Car"
+  ],
+  "ranges": {
+    "year": {
+      "min": 1995,
+      "max": 2020,
+      "median": 2015
+    },
+    "km_driven": {
+      "min": 1000,
+      "max": 500000,
+      "median": 60000
+    },
+    "mileage": {
+      "min": 0.0,
+      "max": 42.0,
+      "median": 19.3
+    },
+    "engine": {
+      "min": 624,
+      "max": 3604,
+      "median": 1248
+    },
+    "max_power": {
+      "min": 0.0,
+      "max": 400.0,
+      "median": 81.86
+    },
+    "seats": {
+      "min": 2,
+      "max": 14,
+      "median": 5
+    }
+  },
+  "feature_importances": [
+    {
+      "feature": "year",
+      "importance": 44.83
+    },
+    {
+      "feature": "max_power",
+      "importance": 41.75
+    },
+    {
+      "feature": "engine",
+      "importance": 4.99
+    },
+    {
+      "feature": "model",
+      "importance": 2.33
+    },
+    {
+      "feature": "km_driven",
+      "importance": 1.78
+    },
+    {
+      "feature": "brand",
+      "importance": 1.6
+    },
+    {
+      "feature": "mileage",
+      "importance": 1.32
+    },
+    {
+      "feature": "owner",
+      "importance": 0.49
+    },
+    {
+      "feature": "seats",
+      "importance": 0.35
+    },
+    {
+      "feature": "fuel",
+      "importance": 0.34
+    },
+    {
+      "feature": "transmission",
+      "importance": 0.11
+    },
+    {
+      "feature": "seller_type",
+      "importance": 0.1
+    }
+  ]
+}
